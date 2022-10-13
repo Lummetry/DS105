@@ -14,7 +14,10 @@ This is the 5th revision of the graduate course in Data Science - a 11 lecture &
  - 2nd Research paper (optional research highlight pres.): 15%
 
 ## Repo structure
- - root all the slides
- - `MandatoryPapers` all the available papers to chose from for mandatory research presentation
- - `Scripts` scripts/notebooks from each interactive lecture 
+ - `"root"` all the slides
+ - `mandatory_papers` all the available papers to chose from for mandatory research presentation
+ - `scripts` scripts/notebooks from each interactive lecture 
+ - `resources` important materials such as linear algebra, stats, etc
+ - `data` folder with toy and maybe-not-so-toy datasets
+ 
  
