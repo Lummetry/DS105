@@ -1,5 +1,10 @@
-# DS104 - Data Science with Deep Learning 2021-2022
+# DS105 - Data Science with Deep Learning 2022-2023
 _From dataset understanding to result presentation and how to employ deep acyclic graph models in Predictive Analytics_
+
+Welcome to 2022-2023 Data Science with Deep Learning
+This is the 5th revision of the graduate course in Data Science - a 11 lecture & hands-on labs journey in the hot field that combines programming, math, statistics, bio/physics in order to provide the today world with the most advanced information technologies: from recommender systems to chatbots, from predictive analytics to visual scene understanding and many others.
+
+
 
 ## Operational and logistics stuff
  - we meet each Thu 08h00-10h00 on Teams!
@@ -13,5 +18,3 @@ _From dataset understanding to result presentation and how to employ deep acycli
  - `MandatoryPapers` all the available papers to chose from for mandatory research presentation
  - `Scripts` scripts/notebooks from each interactive lecture 
  
-## Slack Channel
-Please join our slack workspace by using this link: https://join.slack.com/t/slack-aib1576/shared_invite/zt-wws42mhg-Cq8ED8X6s54rrLyry5VWbg
