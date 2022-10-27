@@ -18,7 +18,6 @@ def set_pretty_prints():
   pd.set_option('display.max_columns', 500)
   pd.set_option('display.max_colwidth', 500)
   pd.set_option('display.width', 1000)
-  pd.set_option('precision', 4)
 
   np.set_printoptions(precision=2)
   np.set_printoptions(suppress=True)
@@ -26,6 +25,16 @@ def set_pretty_prints():
   np.set_printoptions(linewidth=500)
   plt.style.use('ggplot')
   return
+
+def load_dataset(dataset):
+  DATASETS = {
+    'imobiliare.ro' : '../data/imobiliare_bucuresti.csv',
+    
+    }
+  if dataset not in DATASETS:
+    raise ValueError("Uknown dataset '{}'".format(dataset))
+  return pd.read_csv(DATASETS[dataset])
+  
   
   
   
